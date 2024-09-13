@@ -1,0 +1,84 @@
+{ "frames": {
+   "Spring #Idle.PNG": {
+    "frame": { "x": 0, "y": 0, "w": 28, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 28 },
+    "sourceSize": { "w": 28, "h": 28 },
+    "duration": 100
+   },
+   "Spring #Active 0.PNG": {
+    "frame": { "x": 28, "y": 0, "w": 28, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 28 },
+    "sourceSize": { "w": 28, "h": 28 },
+    "duration": 100
+   },
+   "Spring #Active 1.PNG": {
+    "frame": { "x": 56, "y": 0, "w": 28, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 28 },
+    "sourceSize": { "w": 28, "h": 28 },
+    "duration": 100
+   },
+   "Spring #Active 2.PNG": {
+    "frame": { "x": 84, "y": 0, "w": 28, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 28 },
+    "sourceSize": { "w": 28, "h": 28 },
+    "duration": 100
+   },
+   "Spring #Active 3.PNG": {
+    "frame": { "x": 112, "y": 0, "w": 28, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 28 },
+    "sourceSize": { "w": 28, "h": 28 },
+    "duration": 100
+   },
+   "Spring #Active 4.PNG": {
+    "frame": { "x": 140, "y": 0, "w": 28, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 28 },
+    "sourceSize": { "w": 28, "h": 28 },
+    "duration": 100
+   },
+   "Spring #Active 5.PNG": {
+    "frame": { "x": 140, "y": 0, "w": 28, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 28 },
+    "sourceSize": { "w": 28, "h": 28 },
+    "duration": 100
+   },
+   "Spring #Active 6.PNG": {
+    "frame": { "x": 168, "y": 0, "w": 28, "h": 28 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 28, "h": 28 },
+    "sourceSize": { "w": 28, "h": 28 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.40-x64",
+  "image": "Spring.png",
+  "format": "RGBA8888",
+  "size": { "w": 196, "h": 28 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Idle", "from": 0, "to": 0, "direction": "forward" },
+   { "name": "Active", "from": 1, "to": 7, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Sprite Sheet", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
